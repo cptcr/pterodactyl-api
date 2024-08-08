@@ -1,4 +1,5 @@
 # Pterodactyl Discord Bot
+Easy-to-understand API which EVERYONE can use.
 
 ## Overview
 
