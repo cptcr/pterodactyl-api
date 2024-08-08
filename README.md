@@ -143,3 +143,17 @@ user_api_key
 panel_user_id
 created_servers
 ```
+
+# Credits
+## Pterodactyl Eggs: https://github.com/pelican-eggs/eggs
+- **NodeJS Generic:** [tree/master/generic/nodejs](https://github.com/pelican-eggs/eggs/tree/master/generic/nodejs)
+- **C# Generic:** [/tree/master/generic/c%23](https://github.com/pelican-eggs/eggs/tree/master/generic/c%23)
+
+## Discord.js: https://github.com/discordjs/discord.js
+
+## SQLITE3: https://github.com/TryGhost/node-sqlite3
+
+## Pterodactyl: https://github.com/pterodactyl/panel/
+- **Application Routes:** [/blob/1.0-develop/routes/api-application.php](https://github.com/pterodactyl/panel/blob/1.0-develop/routes/api-application.php)
+- **Client Routes:** [/blob/1.0-develop/routes/api-client.php](https://github.com/pterodactyl/panel/blob/1.0-develop/routes/api-client.php)
+- **Remote Routes:** [/blob/1.0-develop/routes/api-remote.php](https://github.com/pterodactyl/panel/blob/1.0-develop/routes/api-remote.php)
